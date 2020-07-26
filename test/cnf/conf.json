@@ -1,0 +1,12 @@
+{
+  "name": "Sakura",
+  "server_addr": ":9099",
+  "version": "v1.0.0 2020.07.26",
+  "versionTag": "beta1",
+  "log_level": "debug",
+  "jwt_secret": "15598870762",
+  "database_host": "r3inbowari.top:3306",
+  "database_username": "root",
+  "database_password": "159463",
+  "database_table": "sakura"
+}
